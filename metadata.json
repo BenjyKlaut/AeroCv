@@ -1,0 +1,6 @@
+{
+  "name": "Créateur de CV Animé",
+  "description": "Un générateur de CV moderne et hautement animé. Créez un CV minimaliste et professionnel à partir d'un texte ou d'un lien LinkedIn grâce à l'IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
